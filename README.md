@@ -8,5 +8,5 @@
 
 ## 시스템 목적
 
-[GRICS의 가차](https://docs.google.com/document/d/1fWm-J6UeJ60oKYjEZfuag-GVbmVdBMcvTUaR9_bKL7I/edit?usp=sharing)
+[GRICS의 가](https://docs.google.com/document/d/1fWm-J6UeJ60oKYjEZfuag-GVbmVdBMcvTUaR9_bKL7I/edit?usp=sharing)
 
