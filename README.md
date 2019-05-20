@@ -24,6 +24,7 @@
 
 ## IA작성
 
+- 신윤재 - [Thinking](https://docs.google.com/document/d/1-17WafUBb7ZWEJbrJrrfamQpI4Ig1s1KsxzjwQEtG_4/edit?usp=sharing)
 - 신윤재 - [IA](https://docs.google.com/spreadsheets/d/1jnmPSYaWXLl8V1FCU1L82XgEQSekGjTjd11vl7n24gg/edit?usp=sharing)
 
 ## UI작업
