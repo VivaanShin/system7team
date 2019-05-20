@@ -1,9 +1,7 @@
 # System7Team GRICS
 ## GRICS란?
+
 - Gachon Research Information Cooperation System
-
-## 시스템 목적
-
 - [GRICS의 가치](https://docs.google.com/document/d/1fWm-J6UeJ60oKYjEZfuag-GVbmVdBMcvTUaR9_bKL7I/edit?usp=sharing)
 
 ## 0502 - 프로세스 방향 논의
