@@ -27,3 +27,18 @@
 ## 0509 - 논문 투고 및 심사 기능 정리, UI에 필요한 세부 기능(IA?)
 
 - [논문 투고 및 심사](http://submit.dbpia.co.kr/) > 투고, 심사 메뉴얼 
+- [UI에 필요한 세부 기능](https://docs.google.com/spreadsheets/d/1FTRhL2_4IKPHtuxHA2_nrM3JYc-7neZ5Unx2M7OJU5E/edit?usp=sharing)
+
+## IA작성
+
+- 신윤재 - [IA](https://docs.google.com/spreadsheets/d/1jnmPSYaWXLl8V1FCU1L82XgEQSekGjTjd11vl7n24gg/edit?usp=sharing)
+
+## UI작업
+
+- 모두 - [간단한 UI](https://docs.google.com/document/d/1jlwB4yyTgP5I09yUXq3FEcnJO-51x_dlDBpKvUIRRRU/edit?usp=sharing)
+- 장순욱 - [손UI](https://docs.google.com/document/d/1KjgS_hK1APUWLzN56H0PtO6xgOrSw9WC_fDCLxB0j98/edit?usp=sharing)
+- 곽희진 - 자세한 UI > PPT에서 봐주세요!
+
+## PPT 및 스토리보드
+- 신윤재, 지민영 - PPT
+- 신윤재, 지민영, 장순욱 - [스토리보드](https://docs.google.com/document/d/1zXQjk-M-RQDajoMUK5aNhZKE4mfSkugFL3mf2ZaNPqI/edit?usp=sharing)
