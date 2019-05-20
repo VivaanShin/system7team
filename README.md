@@ -29,7 +29,7 @@
 
 - 모두 - [간단한 UI](https://docs.google.com/document/d/1jlwB4yyTgP5I09yUXq3FEcnJO-51x_dlDBpKvUIRRRU/edit?usp=sharing)
 - 장순욱 - [손UI](https://docs.google.com/document/d/1KjgS_hK1APUWLzN56H0PtO6xgOrSw9WC_fDCLxB0j98/edit?usp=sharing)
-- 곽희진 - 자세한 UI > PPT에서 봐주세요!
+- 곽희진 - [자세한 UI](https://docs.google.com/document/d/145tYyWtVOYq9lKcg4IrlhFjRW7iFtDHMEaxZH43wr5k/edit?usp=sharing) 
 
 ## PPT 및 스토리보드
 - 신윤재, 지민영 - PPT
