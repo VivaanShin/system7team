@@ -26,4 +26,4 @@
 
 ## 0509 - 논문 투고 및 심사 기능 정리, UI에 필요한 세부 기능(IA?)
 
-- [논문 투고(file:///C:/Users/%EC%9E%A5%EC%88%9C%EC%9A%B1/Downloads/DBpia%20%EB%85%BC%EB%AC%B8%ED%88%AC%EA%B3%A0%EC%8B%9C%EC%8A%A4%ED%85%9C_%EB%A7%A4%EB%89%B4%EC%96%BC_%ED%88%AC%EA%B3%A0%EC%9E%90.pdf)
+- [논문 투고 및 심사](http://submit.dbpia.co.kr/) > 투고, 심사 메뉴얼 
