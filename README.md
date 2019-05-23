@@ -20,7 +20,7 @@
 - 지민영 - [코멘트,개인맞춤화](https://docs.google.com/document/d/1sRaWD4eZA3fIErhJIjohYoO-X-TD1gSUDXgicUwR9TQ/edit?usp=sharing)
 - 장순욱 - [보상,행사](https://docs.google.com/document/d/1Y4psVSgFUTTApKx7PHNH8mkEGCLT6rqgLysZSGQbIdM/edit?usp=sharing)
 
-## 0509 - 논문 투고 및 심사 기능 정리, UI에 필요한 세부 기능(IA?)
+## 0509 - 논문 투고 및 심사 기능 정리, UI에 필요한 세부 기능
 
 - [논문 투고 및 심사](http://submit.dbpia.co.kr/) > 투고, 심사 메뉴얼 
 - [UI에 필요한 세부 기능](https://docs.google.com/spreadsheets/d/1FTRhL2_4IKPHtuxHA2_nrM3JYc-7neZ5Unx2M7OJU5E/edit?usp=sharing)
