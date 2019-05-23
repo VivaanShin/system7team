@@ -1,5 +1,9 @@
 # System7Team GRICS
-- 참여자 - 신윤재, 곽희진, 지민영, 장순욱
+### 참여자 
+- 201433278 신윤재
+- 201834703 곽희진
+- 201834743 지민영 
+- 201834737 장순욱
 ## GRICS란?
 
 - Gachon Research Information Cooperation System
