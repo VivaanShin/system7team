@@ -33,5 +33,6 @@
 - 곽희진 - [자세한 UI](https://docs.google.com/document/d/145tYyWtVOYq9lKcg4IrlhFjRW7iFtDHMEaxZH43wr5k/edit?usp=sharing) 
 
 ## PPT 및 스토리보드
-- 신윤재, 지민영 - PPT
 - 신윤재, 지민영, 장순욱 - [스토리보드](https://docs.google.com/document/d/1zXQjk-M-RQDajoMUK5aNhZKE4mfSkugFL3mf2ZaNPqI/edit?usp=sharing)
+- 신윤재, 지민영 - [스토리보드PPT](https://drive.google.com/file/d/1Q1aHkkfM86T1X598gWPz53QSYaeFLX37/view?usp=sharing)
+- 신윤재 - [발표PPT](https://drive.google.com/file/d/1l6MSunH4Ll2k6qFPeq6ls0w9S0Y_-kAC/view?usp=sharing)
