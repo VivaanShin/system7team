@@ -43,5 +43,6 @@
 
 
 ## ERD PPT
+- [ERD 다이어그램](https://drive.google.com/file/d/1EXlptauuUSIIk9gzHoGBtdJkDbIMwYYm/view?usp=sharing)
 - [ERD PPT](https://drive.google.com/file/d/1GS5sV3FYQl-9H94BiRbKJ0XBLUOwP4Sk/view?usp=sharing)
 
